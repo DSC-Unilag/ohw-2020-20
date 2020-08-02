@@ -3,7 +3,7 @@
 >This application  was inspired by Open Hack Week 2020, and was assigned to team ohw-2020-20
 
 ## Demo
-[Visit Live Demo](http://mimeal.viddateck.com.ng)
+[Visit Live Demo](https://mimeal.herokuapp.com/)
 
 ## Features
 * A random meal selector.
@@ -35,4 +35,4 @@ Make your contribution, save it, then run the following  command in bash
 
 `$ git push origin <your-username>:development`
 
-Then create a new pull request with the development branch on https://github.com/DSC-Unilag/ohw-2020-20.git
+Then create a new pull request with the development branch on https://github.com/DSC-Unilag/ohw-2020-20.git 
